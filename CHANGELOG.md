@@ -1,7 +1,11 @@
 # Zappa Changelog
 
 ## next
+
+## 0.52.0
 * Removed references to zappa.io
+* Dependency updates including dateutil
+* Increasing the timeout for ALB provisioning
 
 ## 0.51.0
 * Lambda Layers
